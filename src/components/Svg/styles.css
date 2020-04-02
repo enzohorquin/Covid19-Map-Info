@@ -1,0 +1,9 @@
+.container-svg {
+    width: 200px;
+    height: 200px;
+}
+.two-col-container__img-container {
+    max-width: 50%;
+    max-height: 265.938px;
+    overflow: hidden;
+}

@@ -1,2 +1,6 @@
-.main {
+.container-box {
+    width: 500px;
+    left: 40%;
+    top: 15%;
+    position: absolute;
 }

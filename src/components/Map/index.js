@@ -22,7 +22,7 @@ import {
   const MapChart = ({ setTooltipContent }) => {
     return (
       <div className="container">
-        <ComposableMap data-tip="" projectionConfig={{ scale: 200 }}>
+        <ComposableMap data-tip="" projectionConfig={{ scale: 175 }}>
             <Geographies geography={geoUrl}>
               {({ geographies }) =>
                 geographies.map(geo => (
